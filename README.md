@@ -1,4 +1,4 @@
-# DependaPou
+# dependencies update
 
 ## Inspiration
 
